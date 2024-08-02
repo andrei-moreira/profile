@@ -1,6 +1,6 @@
 ---
 title: "Andrei Moreira"
-image: "profile_image.jpg"
+image: "images/profile_image.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
