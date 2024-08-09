@@ -1,7 +1,7 @@
 name: "."
 title: "Andrei Moreira"
-description: |
-  Andrei Moreira
+google_analytics: "G-PLF7EBCGVJ"
+base_url: "andreimoreira.netlify.app"
 output_dir: "docs"
 navbar:
   right:
