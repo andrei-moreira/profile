@@ -9,8 +9,4 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Blog"
-      href: figures.html
-    - text: "Contato"
-      href: tables.html
 output: distill::distill_article

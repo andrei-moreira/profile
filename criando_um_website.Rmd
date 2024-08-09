@@ -1,0 +1,62 @@
+---
+title: "Setup Inicial"
+output: html_notebook
+---
+
+## 1. Criar repositório no Github
+
+## 2. Criar projeto no RStudio do PC usando a URL do repositório do Github
+
+## 3. Criar website a partir do RStudio
+
+```{r}
+# install.packages("distill")
+library(distill)
+create_website(dir = ".", title = "Andrei Moreira Teste", gh_pages = TRUE)
+```
+
+Ao final da criação será solicitado para reiniciar o RStudio. Fecha e abre de novo o projeto na pastinha
+
+Site criado. Agora precisa carregar novamente a biblioteca
+
+e depois clicar em Build > Build Website para ver a "carinha" dele.
+```{r}
+library(distill)
+```
+
+e depois clicar em Build > Build Website para ver a "carinha" dele.
+
+IMAGEM
+
+É um website bem simples e precisa de ajustes.
+
+Conseguimos pegar templates para aplicar. Minha sugestão é escolher algum postcard do Sean Kross:
+- pesquisar no google: seankross postcards e entrar no seu Github.
+- eu pessoalmente gosto do Trestles e Solana
+
+Após isso, é preciso instalar o pacote "postcards"
+
+```{r}
+install.packages("postcards")
+```
+
+Em seguida precisamos apagar o arquivo index.Rmd 
+IMAGEM
+
+Para recriá-lo agora usando o template.
+
+```{r}
+create_article(file = "index", template = "trestles", package = "postcards")
+```
+IMAGEM
+
+
+No arquivo index.Rmd incluir a linha site como no exemplo abaixo:
+IMAGEM
+
+Importante manter a identação que está no exemplo para funcionar corretamente.
+
+```{r}
+render_site(encoding = 'UTF-8')
+```
+
