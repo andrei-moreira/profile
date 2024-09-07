@@ -3,13 +3,13 @@ title: "Andrei Moreira"
 image: "images/profile_image.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: 'https://www.linkedin.com/in/andrei-newman-moreira-9bb38491 target="_blanck"'
   - label: GitHub
-    url: "https://github.com/andrei-moreira"
+    url: 'https://github.com/andrei-moreira target="_blanck"'
   - label: Email
-    url: "nmoreira.andrei@gmail.com"
+    url: "contato.html"
   - label: CV
-    url: "XXX"
+    url: 'media/CV_Andrei.pdf target="_blanck"'
 output:
   postcards::trestles
 site: distill::distill_website

@@ -1,7 +1,7 @@
 name: "."
 title: "Andrei Moreira"
 google_analytics: "G-PLF7EBCGVJ"
-base_url: "andreimoreira.netlify.app"
+base_url: "https://andrei-moreira.github.io/profile-distill/"
 output_dir: "docs"
 navbar:
   right:
@@ -13,4 +13,7 @@ navbar:
       href: figures.html
     - text: "Contato"
       href: tables.html
-output: distill::distill_article
+output: 
+    distill::distill_article:
+        includes:
+            after_body: "includes/footer.html"
