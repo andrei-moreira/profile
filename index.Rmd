@@ -4,38 +4,43 @@ image: "images/profile_image.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/andrei-moreira"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "nmoreira.andrei@gmail.com"
+  - label: CV
+    url: "XXX"
 output:
   postcards::trestles
 site: distill::distill_website
 ---
- 
-## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+## Biografia
 
-## Education
+Andrei é um profissional com vasta experiência em **planejamento (financeiro, comercial, operacional)** atuando junto às **áreas de negócios e operações**. Foco em alavancagem de resultado, eficiência e governança de planejamento através de dados e indicadores. Possui um **perfil híbrido** em que alinha **conhecimento técnico (planejamento, processos e dados)** com a construção de **relacionamentos e parcerias**, e **desenvolvimento/liderança de pessoas** sempre em busca de extrair o melhor de cada um. Perfil de atuação: **analítico, *data driven*, colaborativo e *hands-on***.
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+## Formação
 
-Ph.D. in Computer Science | September 2009 - May 2014
+**Química Industrial** \| UFRJ - Rio de Janeiro
 
-**The University of California, Berkeley** | Berkeley, CA
+## Especialização
 
-B.S. in Computer Science | September 2005 - May 2009
+**Logística e Supply Chain / Planejamento de Demanda, Estoques e Produção** \| ILOS - Instituto de Logística e Supply Chain
+
+**Formação em Ciência de Dados** \| J! Quant e Business Science
+
+**Badge Master PCP** \| [Brasil Open Badge](https://www.brasilopenbadge.com.br/pages/profile/andrei-newman-moreira "Badges")
+
+**Badge Multiplicadores** \| [Brasil Open Badge](https://www.brasilopenbadge.com.br/pages/profile/andrei-newman-moreira "Badges")
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Itaú-Unibanco** \| Líder Planejamento Estratégico \| Janeiro/2024 - Atual
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Itaú-Unibanco** \| Product Manager \| Janeiro/2023 - Janeiro/2024
+
+**Itaú-Unibanco** \| Analista Planejamento Comercial \| Maio/2021 - Janeiro/2023
+
+**Itaú-Unibanco** \| Analista Planejamento, S&OP, Logística e Supply Chain \| Fevereiro/2019 - Maio/2021
+
+**Plannera** \| Especialista de S&OP, Logística e Supply Chain \| Outubro/2014 - Fevereiro/2019
