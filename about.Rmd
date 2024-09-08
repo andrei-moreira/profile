@@ -1,10 +1,32 @@
 ---
-title: "About this site"
+title: "Sobre mim"
 description: |
-  Some additional details about the website
+  Detalhes adicionais sobre mim e o site
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+## Sobre Mim
+
+Bem-vindo ao meu site pessoal e blog! Eu sou Andrei Moreira, um apaixonado por inovação com grande interesse em planejamento, dados e gestão. Este espaço é dedicado a compartilhar minha jornada, insights e projetos.
+
+### Minha Jornada
+
+Comecei minha carreira na Plannera, onde desenvolvi uma base técnica sólida em planejamento e ferramental (Excel, SQL, R e Python). Ao longo dos anos, tive a oportunidade de trabalhar em vários projetos que aprimoraram minhas habilidades em planejamento operacional, comercial e financeiro, além de desenvolver o conhecimento em ciência de dados. Minha jornada tem sido impulsionada por uma curiosidade incessante e um desejo contínuo de aprender e crescer.
+
+### O Que Eu Faço
+
+Neste site, você encontrará uma coleção de meus posts no blog, onde compartilho meus aprendizados, experiências e pensamentos sobre planejamento, dados e gestão. Acredito no poder do compartilhamento de conhecimento e meu objetivo é contribuir para a comunidade fornecendo insights valiosos e dicas práticas.
+
+### Meus Projetos
+
+Além do blog, também apresento meus projetos aqui. Esses projetos refletem minha experiência prática e a aplicação de minhas habilidades em cenários do mundo real. De Análise dos dados do DataSUS a analise de dados financeiros da bolsa de valores, cada projeto é um testemunho da minha dedicação e expertise.
+
+### Vamos Conectar
+
+Estou sempre aberto(a) a conectar-me com pessoas de mentalidade semelhante e explorar novas oportunidades. Sinta-se à vontade para entrar em contato comigo através de [Seu Método de Contato Preferido] ou conectar-se comigo nas [Suas Redes Sociais].
+
+Obrigado por visitar meu site. Espero que você ache o conteúdo aqui perspicaz e envolvente!
