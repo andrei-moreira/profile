@@ -3,6 +3,7 @@ title: "Andrei Moreira"
 google_analytics: "G-PLF7EBCGVJ"
 base_url: "https://andrei-moreira.github.io/profile-distill/"
 output_dir: "docs"
+theme: includes/styles.css
 navbar:
   right:
     - text: "Home"
@@ -10,9 +11,9 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Blog"
-      href: figures.html
+      href: blog.html
     - text: "Contato"
-      href: tables.html
+      href: contact.html
 output: 
     distill::distill_article:
         includes:

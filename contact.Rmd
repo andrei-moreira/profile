@@ -1,0 +1,39 @@
+---
+title: "Contato"
+---
+
+<p>Você pode entrar em contato comigo através do e-mail:</p>
+
+<p><a href="mailto:nmoreira.andrei@gmail.com">nmoreira.andrei@gmail.com</a></p>
+
+<p>Ou me encontrar nas redes sociais:</p>
+
+<ul>
+
+<li><a href="https://www.linkedin.com/in/andrei-newman-moreira-9bb38491" target="_blanck">LinkedIn</a></li>
+
+<li><a href="https://wa.me/5511998417452" target="_blank">WhatsApp</a></li>
+
+</ul>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
